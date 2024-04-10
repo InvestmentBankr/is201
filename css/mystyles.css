@@ -1,0 +1,19 @@
+body{
+    font-family: 'Comic Sans MS';
+}
+.site-heading-lower{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mb-3{
+   color: rgb(143, 196, 46);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.notyellow{
+    color: black;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px black
+}
+.section-heading-lower{
+    box-shadow: 10px 10px 15px black;
+}

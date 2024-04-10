@@ -1,0 +1,51 @@
+body{
+    background-color:rgba(62, 88, 194, 0.297);
+    color: rgb(64, 38, 213); /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+    
+    } 
+    h1{
+        font-family:cursive;
+        text-align: center;
+    }
+
+    h5{
+        font-size: larger;
+        display: inline;
+    }
+    .rizz{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size:x-large;
+        font-variant: small-caps;
+        font-style:initial;
+        background-color: rgb(215, 204, 209);
+        border: 10px;
+        margin: 50px; color: rgb(120, 88, 49);
+        border: dashed blue;
+        
+    
+    
+    }
+    a{
+        color: rgb(52, 94, 170)   
+    }
+    img{
+        border: 10px solid rgb(66, 61, 106);
+        padding: 10px;
+        margin: 5px;
+        /*centers stuff*/
+        display: inline;
+        margin: auto;
+
+
+    }
+
+    /*Positioning styles*/
+    .common{
+        position: absolute; 
+        border: 5px solid black;
+        background-color: beige;
+
+    }
+    
